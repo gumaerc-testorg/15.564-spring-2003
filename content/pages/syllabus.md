@@ -1,9 +1,14 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 837521fd-5d5b-0a4f-a3ae-19c45b261c89
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -26,14 +31,14 @@ Instructor: Prof. Chris Dellarocas
 Audience and Prerequisites
 --------------------------
 
-15.564 is an introductory course. It is assumed that students know how to use Macintosh or IBM PC word processors and spreadsheets. No knowledge of how computers work or are programmed is assumed. Students who have recently completed courses in computer architecture, operating systems, and telecommunications probably should not take this course, because most of the course consists of highlights of those topics. Student backgrounds vary considerably, however. Students with some background in electrical engineering or programming will breeze through certain topics, though it is hoped that the discussion of current eBusiness application classes as well as the term project (see the [assignments]({{< baseurl >}}/pages/assignments) page) will benefit them as well. Those with no background will have to work harder, but mastery of this material is within reach of every MIT student regardless of background. Talk to the instructor if you're not sure whether your background is appropriate.
+15.564 is an introductory course. It is assumed that students know how to use Macintosh or IBM PC word processors and spreadsheets. No knowledge of how computers work or are programmed is assumed. Students who have recently completed courses in computer architecture, operating systems, and telecommunications probably should not take this course, because most of the course consists of highlights of those topics. Student backgrounds vary considerably, however. Students with some background in electrical engineering or programming will breeze through certain topics, though it is hoped that the discussion of current eBusiness application classes as well as the term project (see the {{% resource_link e002d053-d5e5-987b-610b-aed8738877aa "assignments" %}} page) will benefit them as well. Those with no background will have to work harder, but mastery of this material is within reach of every MIT student regardless of background. Talk to the instructor if you're not sure whether your background is appropriate.
 
 Logistics
 ---------
 
-[Lectures]({{< baseurl >}}/pages/lecture-notes): Twice per week for 1.5 hours each.
+{{% resource_link cea747e0-5c58-afe9-b281-d8b9cecc8800 "Lectures" %}}: Twice per week for 1.5 hours each.
 
-[Recitation]({{< baseurl >}}/pages/recitations): Once per week for 1 hour. The purpose of recitation is to:
+{{% resource_link d696cf93-74e1-dd2f-c4dd-72fe72dacce3 "Recitation" %}}: Once per week for 1 hour. The purpose of recitation is to:
 
 > a) review material covered in class during the week;  
 > b) provide additional examples and exercises that aid understanding;  
@@ -47,9 +52,9 @@ Readings, Lecture Notes and Textbooks
 
 One of the unusual aspects of this course is the diversity of student objectives, backgrounds and previous exposure to the subject matter. To accommodate this diversity we propose that each student select his or her individualized sets of supplementary study materials from the list below. We will describe the recommended study materials and the strategy for choosing between them in the first session of the course. Please feel free to send us email if you have questions related to the best study materials for you. _Required materials_
 
-[Lecture notes]({{< baseurl >}}/pages/lecture-notes) are preprints of Microsoft PowerPoint slides used by the instructor during lectures. They are fairly detailed and comprehensive (typically between 20-30 slides per lecture). In the past, most students found that the slides were the primary resource they used for reviewing the class material. Suggested study strategy: skim the lecture notes before class, then read carefully after class. We will be distributing lecture notes in class at the beginning of each lecture.
+{{% resource_link cea747e0-5c58-afe9-b281-d8b9cecc8800 "Lecture notes" %}} are preprints of Microsoft PowerPoint slides used by the instructor during lectures. They are fairly detailed and comprehensive (typically between 20-30 slides per lecture). In the past, most students found that the slides were the primary resource they used for reviewing the class material. Suggested study strategy: skim the lecture notes before class, then read carefully after class. We will be distributing lecture notes in class at the beginning of each lecture.
 
-Photocopied [readings]({{< baseurl >}}/pages/readings) contain textbook chapters and magazine articles whose main purpose is to supplement the lecture notes and serve as a reference for the topics covered in class. Since this is a new course, we will be distributing readings in class as we go.
+Photocopied {{% resource_link af4447e6-eb47-78d3-ff99-5744110e06dd "readings" %}} contain textbook chapters and magazine articles whose main purpose is to supplement the lecture notes and serve as a reference for the topics covered in class. Since this is a new course, we will be distributing readings in class as we go.
 
 _Recommended materials_
 
@@ -66,7 +71,7 @@ Finally, for students who would like to learn Microsoft Access in depth, the fol
 Assignments, Exams, and Grading
 -------------------------------
 
-The course [assignments]({{< baseurl >}}/pages/assignments) consist of 5 problem sets, two in-class exams and a term project. Grades will be determined on the following basis:
+The course {{% resource_link e002d053-d5e5-987b-610b-aed8738877aa "assignments" %}} consist of 5 problem sets, two in-class exams and a term project. Grades will be determined on the following basis:
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -131,7 +136,7 @@ Class Contribution
 
   
 
-Assignments are due in class during the [due dates]({{< baseurl >}}/pages/assignments). In special circumstances (e.g., illness, religious holidays) we'll try to be accommodating, if you make arrangements with us in advance. Late assignments will be penalized by 10% per 24 hours if you have not made arrangements in advance, and will not be accepted at all 48 hours after the time due.
+Assignments are due in class during the {{% resource_link e002d053-d5e5-987b-610b-aed8738877aa "due dates" %}}. In special circumstances (e.g., illness, religious holidays) we'll try to be accommodating, if you make arrangements with us in advance. Late assignments will be penalized by 10% per 24 hours if you have not made arrangements in advance, and will not be accepted at all 48 hours after the time due.
 
 There are several ways to earn "Class Contribution" points. First and foremost is to come prepared for class, ask questions that other students want to know the answer to, and give clear, brief answers to questions I ask. Second is to locate magazine or newspaper articles that are relevant to the class and to bring a photocopy to me for distribution to the entire class. Third is to do follow-up research in order to answer an interesting question that comes up in class. In short, if you help other students learn, you get class contribution points.
 

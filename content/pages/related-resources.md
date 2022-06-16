@@ -1,9 +1,14 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: 786e8a40-eb21-0ca8-e22d-8ce5cc805fbc
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The lecture notes recommend several books, articles, and web sites: they are listed here for those who would like to learn more about the topics covered.
