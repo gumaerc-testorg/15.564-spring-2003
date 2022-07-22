@@ -1,8 +1,8 @@
 ---
 content_type: resource
-description: Identifying Trends in Information Technology
-file: /courses/15-564-information-technology-i-spring-2003/72d9e0532b3a6ad1af38f07cf7ef246e_termproject.pdf
-file_type: application/pdf
+description: 'ASCII file: ''1''s and spaces'
+file: /courses/15-564-information-technology-i-spring-2003/aec7351268d75ee8213a42d505b87499_one.txt
+file_type: text/plain
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -10,12 +10,12 @@ ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
 parent_uid: e002d053-d5e5-987b-610b-aed8738877aa
-resourcetype: Document
-title: termproject.pdf
-uid: 72d9e053-2b3a-6ad1-af38-f07cf7ef246e
+resourcetype: Other
+title: one.txt
+uid: aec73512-68d7-5ee8-213a-42d505b87499
 video_files:
   video_thumbnail_file: null
 video_metadata:
   youtube_id: null
 ---
-Identifying Trends in Information Technology
+ASCII file: '1's and spaces
