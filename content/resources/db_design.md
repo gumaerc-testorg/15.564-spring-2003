@@ -5,6 +5,7 @@ file: /courses/15-564-information-technology-i-spring-2003/aac9cdfd30a096eca98af
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Database Design Example
-

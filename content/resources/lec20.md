@@ -5,6 +5,7 @@ file: /courses/15-564-information-technology-i-spring-2003/44ff6c70df5c0092a271c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Data Mining, Data Warehousing
-

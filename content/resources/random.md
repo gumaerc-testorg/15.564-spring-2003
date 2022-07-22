@@ -5,6 +5,7 @@ file: /courses/15-564-information-technology-i-spring-2003/78ae2fbdec14b75b1f014
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 ASCII file: random characters
-

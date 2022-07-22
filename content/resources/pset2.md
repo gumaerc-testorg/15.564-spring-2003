@@ -5,6 +5,7 @@ file: /courses/15-564-information-technology-i-spring-2003/bc41ab1f0f773d37703d8
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Database Queries and Design
-

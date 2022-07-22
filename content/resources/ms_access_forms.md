@@ -5,6 +5,7 @@ file: /courses/15-564-information-technology-i-spring-2003/88d84a322ea6dfc14e4c2
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection

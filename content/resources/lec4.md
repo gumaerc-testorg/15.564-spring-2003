@@ -5,6 +5,7 @@ file: /courses/15-564-information-technology-i-spring-2003/fcdbc4fe2b5e30712ae79
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

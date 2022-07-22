@@ -6,6 +6,7 @@ file: /courses/15-564-information-technology-i-spring-2003/72f1ca6c61f743d09f55e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Security I: Public Key Cryptography and Security II: Digital Signatures, Network Security.
-

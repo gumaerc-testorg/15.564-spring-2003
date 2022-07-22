@@ -5,6 +5,7 @@ file: /courses/15-564-information-technology-i-spring-2003/02e1f182fa2c82b01b4d7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Computer Representations and Compression
-

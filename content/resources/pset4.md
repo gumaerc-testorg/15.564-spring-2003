@@ -5,6 +5,7 @@ file: /courses/15-564-information-technology-i-spring-2003/c00408b7e5b3de3863905
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Computer Networks / Public Key Cryptography
-
