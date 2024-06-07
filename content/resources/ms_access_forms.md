@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-564-information-technology-i-spring-2003/88d84a322ea6dfc14e4c22ea4fb3621c_ms_access_forms.pdf
+file_size: 1667879
 file_type: application/pdf
 learning_resource_types:
 - Recitations

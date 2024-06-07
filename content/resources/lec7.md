@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-564-information-technology-i-spring-2003/4b836ef3200849e940887c1dd614947f_lec7.pdf
+file_size: 273924
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
