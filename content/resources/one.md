@@ -2,6 +2,7 @@
 content_type: resource
 description: 'ASCII file: ''1''s and spaces'
 file: /courses/15-564-information-technology-i-spring-2003/aec7351268d75ee8213a42d505b87499_one.txt
+file_size: 400000
 file_type: text/plain
 learning_resource_types:
 - Assignments

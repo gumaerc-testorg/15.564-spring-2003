@@ -2,6 +2,7 @@
 content_type: resource
 description: Computer Representations and Compression
 file: /courses/15-564-information-technology-i-spring-2003/02e1f182fa2c82b01b4d74e51ceef7d4_lec3.pdf
+file_size: 243656
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

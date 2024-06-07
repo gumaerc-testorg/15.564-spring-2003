@@ -2,6 +2,7 @@
 content_type: resource
 description: Computer Networks / Public Key Cryptography
 file: /courses/15-564-information-technology-i-spring-2003/c00408b7e5b3de3863905b8340720ed8_pset4.pdf
+file_size: 106868
 file_type: application/pdf
 learning_resource_types:
 - Assignments

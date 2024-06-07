@@ -2,6 +2,7 @@
 content_type: resource
 description: Relational Databases, Database Queries Using SQL
 file: /courses/15-564-information-technology-i-spring-2003/e43e5752af6891290f7ac16cce547e5c_lec6.pdf
+file_size: 319273
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
