@@ -2,6 +2,7 @@
 content_type: resource
 description: 'ASCII file: random characters'
 file: /courses/15-564-information-technology-i-spring-2003/78ae2fbdec14b75b1f0146f60b04db28_random.txt
+file_size: 400000
 file_type: text/plain
 learning_resource_types:
 - Assignments

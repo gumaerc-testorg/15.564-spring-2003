@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-564-information-technology-i-spring-2003/186878a45e247363cafc83fb8e9c48b6_sql_query.pdf
+file_size: 146388
 file_type: application/pdf
 learning_resource_types:
 - Recitations

@@ -2,6 +2,7 @@
 content_type: resource
 description: Telecommunication Concepts; Data Transmission
 file: /courses/15-564-information-technology-i-spring-2003/475e66622c31ece67869171a55d180cc_lec10.pdf
+file_size: 482926
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

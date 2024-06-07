@@ -2,6 +2,7 @@
 content_type: resource
 description: Data Mining, Data Warehousing
 file: /courses/15-564-information-technology-i-spring-2003/44ff6c70df5c0092a271ccc599ead9d5_lec20.pdf
+file_size: 319048
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
