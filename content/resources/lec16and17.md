@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Security I: Public Key Cryptography and Security II: Digital Signatures,
   Network Security.'
-file: /ol-ocw-studio-app/courses/15-564-information-technology-i-spring-2003/72f1ca6c61f743d09f55edb9828e51fb_lec16and17.pdf
+file: /courses/15-564-information-technology-i-spring-2003/72f1ca6c61f743d09f55edb9828e51fb_lec16and17.pdf
 file_size: 440180
 file_type: application/pdf
 learning_resource_types:

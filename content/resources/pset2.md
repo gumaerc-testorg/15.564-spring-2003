@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Database Queries and Design
-file: /ol-ocw-studio-app/courses/15-564-information-technology-i-spring-2003/bc41ab1f0f773d37703d895c3e50536b_pset2.pdf
+file: /courses/15-564-information-technology-i-spring-2003/bc41ab1f0f773d37703d895c3e50536b_pset2.pdf
 file_size: 299788
 file_type: application/pdf
 learning_resource_types:

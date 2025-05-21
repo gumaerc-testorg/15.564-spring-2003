@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Wireless Network Technologies
-file: /ol-ocw-studio-app/courses/15-564-information-technology-i-spring-2003/ff62b2b438a68a7d45841a552c41655d_lec14.pdf
+file: /courses/15-564-information-technology-i-spring-2003/ff62b2b438a68a7d45841a552c41655d_lec14.pdf
 file_size: 276981
 file_type: application/pdf
 learning_resource_types:
