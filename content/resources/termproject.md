@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Identifying Trends in Information Technology
-file: /ol-ocw-studio-app/courses/15-564-information-technology-i-spring-2003/72d9e0532b3a6ad1af38f07cf7ef246e_termproject.pdf
+file: /courses/15-564-information-technology-i-spring-2003/72d9e0532b3a6ad1af38f07cf7ef246e_termproject.pdf
 file_size: 224851
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Wide Area Networks and the Internet
-file: /ol-ocw-studio-app/courses/15-564-information-technology-i-spring-2003/7be44b86820b56058ad01fae10603d93_lec13.pdf
+file: /courses/15-564-information-technology-i-spring-2003/7be44b86820b56058ad01fae10603d93_lec13.pdf
 file_size: 281192
 file_type: application/pdf
 learning_resource_types:
