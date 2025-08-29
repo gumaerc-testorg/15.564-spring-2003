@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Client/Server, Peer-to-Peer and the WWW
-file: /courses/15-564-information-technology-i-spring-2003/73fd3edfb589d781ae56f1e950250e49_lec15.pdf
+file: /ol-ocw-studio-app/courses/15-564-information-technology-i-spring-2003/73fd3edfb589d781ae56f1e950250e49_lec15.pdf
 file_size: 279464
 file_type: application/pdf
 learning_resource_types:
