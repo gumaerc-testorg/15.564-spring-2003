@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Data networks, connection media and LAN.
-file: /courses/15-564-information-technology-i-spring-2003/36fff7980859e2c5d61be3f3101a45ac_lec11.pdf
+file: /ol-ocw-studio-app/courses/15-564-information-technology-i-spring-2003/36fff7980859e2c5d61be3f3101a45ac_lec11.pdf
 file_size: 387174
 file_type: application/pdf
 learning_resource_types:
