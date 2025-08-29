@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'GUIs: Extending a Microsoft Access Application'
-file: /courses/15-564-information-technology-i-spring-2003/15dd415ef3f1ccbebc1d55fd01d94885_pset3.pdf
+file: /ol-ocw-studio-app/courses/15-564-information-technology-i-spring-2003/15dd415ef3f1ccbebc1d55fd01d94885_pset3.pdf
 file_size: 410375
 file_type: application/pdf
 learning_resource_types:
