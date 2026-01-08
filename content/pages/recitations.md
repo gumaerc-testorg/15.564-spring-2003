@@ -150,7 +150,7 @@ Under the Hood of a Commercial Web Site
 
 **Recitation**: Microsoft FrontPage
 
-Read the online tutorial: *FrontPage 2000 in the Classroom*. ACT360 Media Ltd. in conjuction with Microsoft Corporation. 1999. Available at the {{% resource_link "ebeaeef4-3539-42d1-82a1-e08a82b02002" "ACT360" %}} web site.
+Read the online tutorial: *FrontPage 2000 in the Classroom*. ACT360 Media Ltd. in conjuction with Microsoft Corporation. 1999. Available at the [ACT360](http://www.act360.com/) web site.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
