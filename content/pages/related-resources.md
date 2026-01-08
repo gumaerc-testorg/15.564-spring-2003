@@ -243,13 +243,13 @@ Security I: Public Key Cryptography
 {{< tdopen >}}
 
 
-{{% resource_link "53959863-60b4-4717-adc7-dc60058ee199" "Microsoft Security Home Page" %}}
+[Microsoft Security Home Page](http://www.microsoft.com/security)
 
 *   Advisors
 *   Patches
 *   IIS Security Checklist
 
-{{% resource_link "21b0234e-d2d7-4511-9a0a-81dc6d7567f3" "SecurityFocus" %}}
+[SecurityFocus](http://www.securityfocus.com)
 
 *   Mailing List
 *   Tools, Books, Links
@@ -289,7 +289,7 @@ Evolution of Web Technologies
 {{< tdopen >}}
 
 
-{{% resource_link "accb5e7a-172a-4831-99fd-a85ff85f70b2" "Scientific American: The Semantic Web" %}}  
+[Scientific American: The Semantic Web](http://www.sciam.com/article.cfm?articleID=00048144-10D2-1C70-84A9809EC588EF21&ref=sciam)  
 A new form of Web content that is meaningful to computers will unleash a revolution of new possibilities.
 
 Also available in print: Berners-Lee, Tim, James Hendler, and Ora Lassila. _The Semantic Web_. Scientific American, May 2001, pp. 35-43.
@@ -328,9 +328,9 @@ Data Mining, Data Warehousing 
 
 Recommended book: Berry, Michael J. A., and Gordon Linoff. _Data Mining Techniques: For Marketing, Sales, and Customer Support._ John Wiley & Sons, 1997.
 
-Useful collections of links - Chapple, Mike. _Data Mining and Data Warehousing_. {{% resource_link "5c7d8770-7aa6-4b34-9061-1d5672558e3d" "About.com" %}}.
+Useful collections of links - Chapple, Mike. _Data Mining and Data Warehousing_. [About.com](http://www.about.com).
 
-Case studies and industry - {{% resource_link "07692c51-bbc7-4348-95c4-b877dbad05c0" "_Datamation_" %}} magazine web site.
+Case studies and industry - [_Datamation_](http://www.datamation.com) magazine web site.
 
 
 {{< tdclose >}}
